@@ -1,1 +1,1 @@
-<iframe width="560" height="315" src="https://www.youtube.com/embed/IM7bY6Y7yms?si=oJ9tl1QiKr6nQ5Yv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+HD video can be found at https://youtu.be/IM7bY6Y7yms?si=2BEiRhaq9E06Fee2.
