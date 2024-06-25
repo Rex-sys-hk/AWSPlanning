@@ -1,0 +1,6 @@
+<launch>
+    <node pkg="4WS_control" name="ros_interface" type="plan_utils/ros_interface.py"/>
+    <node pkg="4WS_control" name="routing" type="plan_utils/routing.py"/>
+    <node pkg="4WS_control" name="follower" type="path_follower.py"/>
+    <node type="rviz" name="rviz" pkg="rviz" args="-d plan_config.rviz" />
+</launch>

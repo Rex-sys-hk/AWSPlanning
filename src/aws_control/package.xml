@@ -1,0 +1,9 @@
+<package format="2">
+  <name>aws_control</name>
+  <version>0.0.1</version>
+  <description>
+  This package provides aws_control utils.
+  </description>
+  <maintainer email="rxin@connect.ust.hk">Rex</maintainer>
+  <license>BSD</license>
+</package>
